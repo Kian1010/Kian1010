@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kian1010
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning IT engineering
+- 🌱 I’m currently learning IT engineering which involves both programming and networking
 - 📫 KianNaidu@gmail.com
 
 <!---
