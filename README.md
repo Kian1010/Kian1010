@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kian1010
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning IT engineering which involves both programming and networking
-- 📫 KianNaidu@gmail.com
+- 👀 I’m passionate about software developing and willing to learn something new every day. 
+- 🌱 I’ve finished studying IT engineering and have achieved the highest in my class!
+- 📫 KianNaidu@gmail.com to contact me
 
 <!---
 Kian1010/Kian1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
