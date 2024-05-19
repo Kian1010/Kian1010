@@ -1,7 +1,7 @@
 Hi, I’m Kian!
-I am an individual who believes that coding is the future!
-I want to improve my ability to understand the core aspects
-of all things involving computers and coding.
+I am an individual who enjoys coding and the challenges assosicated with it! (Especially when it works)
+I aim to improve my ability to understand the core aspects continously
+of all things within the IT field such as coding.
 
 My dream is that one day code that I write can help others, 
 be it simply making someones life more convenient 
